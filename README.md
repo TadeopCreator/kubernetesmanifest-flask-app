@@ -4,6 +4,10 @@ This repository contains the Kubernetes deployment manifest for the Flask applic
 
 Check the [medium article](https://medium.com/@tadeop/continuous-deployment-with-jenkins-gitops-and-minikube-deploying-a-flask-app-to-kubernetes-664beeaa82b0) of this project with a complete description of the process.
 
+Visual Guide to Our Continuous Deployment Workflow:
+
+![Visual Guide to Our Continuous Deployment Workflow](https://miro.medium.com/v2/resize:fit:640/format:webp/1*HGgzOwSN52Cunpk7mV-njw.png)
+
 ## Table of Contents
 
 - [Manifest Overview](#manifest-overview)
